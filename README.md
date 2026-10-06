@@ -101,7 +101,7 @@ When possible, IT SUCKS! projects aim to be:
 
 ## Still Evolving
 
-IT SUCKS! does not have a grand five-year roadmap. New articles, plugins, extensions, and small utilities tend to appear when I encounter something irritating, unnecessarily complicated, privacy-hostile, or simply badly designed.
+IT SUCKS! does not have a grand five-year roadmap. <a href="https://www.itsucks.fyi/" target="_blank">New articles, plugins, extensions, and small utilities</a> tend to appear when I encounter something irritating, unnecessarily complicated, privacy-hostile, or simply badly designed.
 
 Some ideas become permanent projects. Some get rewritten. Some disappear because there is a better way to do them.
 
