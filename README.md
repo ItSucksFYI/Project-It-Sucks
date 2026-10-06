@@ -12,7 +12,7 @@ Everything here is developed independently.
 
 ## Visual Appearance and Style
 
-IT SUCKS! has a deliberately strong and recognizable visual identity built primarily around **red and black**. The project uses bold typography, high contrast, and distinctive red-and-black illustrations across articles, software pages, featured images, and promotional graphics.
+<a href="https://www.itsucks.fyi/" target="_blank">IT SUCKS!</a> has a deliberately strong and recognizable visual identity built primarily around **red and black**. The project uses bold typography, high contrast, and distinctive red-and-black illustrations across articles, software pages, featured images, and promotional graphics.
 
 The limited color palette is intentional. Rather than using generic stock imagery or constantly changing visual styles, IT SUCKS! uses its red-and-black artwork as part of the project's branding, helping articles, plugins, extensions, and other projects feel like parts of the same identity.
 
@@ -37,7 +37,7 @@ The common idea is simple: if something is unnecessarily complicated, bloated, i
 ### May 2026
 
 **IT SUCKS! begins taking shape.**  
-The project develops around `itsucks.fyi` as an independent home for articles, opinions, complaints, practical guides, and software. The idea quickly expands beyond being simply a blog. [Homepage](https://www.itsucks.fyi/milans-redgifs-video-downloader/)
+The project develops around `itsucks.fyi` as an independent home for articles, opinions, complaints, practical guides, and software. The idea quickly expands beyond being simply a blog.
 
 **May 21, 2026 — WordPress becomes an important part of the project.**  
 The article *Disable AI in WordPress 7.0* is published together with a practical MU plugin, establishing a pattern that would become common for IT SUCKS!: complain about something, explain the problem, and occasionally provide a way to fix it.
